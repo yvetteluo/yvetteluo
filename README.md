@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanadontstudy
-- 👀 I’m interested in social data science, political science as well as NFT+art
-- 🌱 I’m currently learning machine learning and natural language processing
+- 👀 I’m interested in social data science, blockchain as well as NFT+art
+- 🌱 I’m currently learning natural language processing
 - 💞️ I’m looking to collaborate on computer science especially about methods
 - 📫 How to reach me? I am in github now hahaha~
 
