@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nanadontstudy
+- 👋 Hi, I’m @yvetteluo
 - 🌱 I’m interested in social data science, blockchain as well as NFT+art
 - 👀 If you see the message here, you will feel oh such an interesting guy haha~ don't hesitate to follow/contact me~ come on~~
 - 💞️ (I will update other codes about machine learning and graph embeding later:) athough slowly)
