@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yvetteluo
-- 🌱 I’m interested in social data science, blockchain as well as NFT+art
+- 🌱 I’m interested in social data science, computational social science as well as blockchain
 - 👀 Normally I shared some understanding about programming and research here. Welcome to follow me~
 
 <!---
