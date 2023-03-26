@@ -7,6 +7,6 @@ I’m interested in social data science, computational social science as well as
 
 Normally I share some understanding about programming and research here. Welcome to follow me~
 
-### 📎 Homepages
-- Personal Pages: https://yvetteluo.github.io (updated recently🔥)
+### Homepages
+- Personal Pages: https://yvetteluo.github.io (updated recently)
 - Linkedin: https://www.linkedin.com/in/yanzhen-luo-165469225/
