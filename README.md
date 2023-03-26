@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @yvetteluo
-- 🌱 I’m interested in social data science, computational social science as well as blockchain
-- 👀 Normally I shared some understanding about programming and research here. Welcome to follow me~
+Hi, I’m Yvette (@yvetteluo) 👋
 
-<!---
-nanadontstudy/nanadontstudy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a second year master student in Social Data Science from University of Copenhagen. I gained my bachelor of Economics from Peking University.
+
+
+I’m interested in social data science, computational social science as well as blockchain
+
+Normally I share some understanding about programming and research here. Welcome to follow me~
+
+### 📎 Homepages
+- Personal Pages: https://yvetteluo.github.io (updated recently🔥)
+- Linkedin: https://www.linkedin.com/in/yanzhen-luo-165469225/
