@@ -9,4 +9,4 @@ Normally I share some understanding about programming and research here. Welcome
 
 ### Homepages
 - Personal Pages: https://yvetteluo.github.io (updated recently)
-- Linkedin: https://www.linkedin.com/in/yanzhen-luo-165469225/
+- Linkedin: https://www.linkedin.com/in/yvette-luo/
